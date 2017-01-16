@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+                <meta name="robots" content="noodp,nodir,noydir">
+        <meta name="keywords" content="Offshore outsourcing, Freelancers, India, Russia, Ukraine, php Programmers, Coders, Developers, Writers, Web Designers, Website Design, Technical Writers">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Log In - Upwork</title>
+
+    <script type="text/javascript">
+      function create_mark(name) {
+        window.performance && window.performance.mark && window.performance.mark(name);
+      }
+
+      function remove_mark(name) {
+        window.performance && window.performance.clearMarks && window.performance.clearMarks(name);
+      }
+
+      function create_measure(name, startMark, endMark) {
+        window.performance && window.performance.measure && window.performance.measure(name, startMark, endMark);
+      }
+
+      function remove_measure(name) {
+        window.performance && window.performance.clearMeasures && window.performance.clearMeasures(name);
+      }
+    </script>
+
+                        <link rel="stylesheet" href="https://components.elance-odesk.com/components/1.8.2/air.global.responsive.1.8.2.min.css" onload="remove_mark('navCompRenderEnd');remove_measure('navCompRendered');create_mark('navCompRenderEnd');create_measure('navCompRendered', 'navigationStart', 'navCompRenderEnd');"/>
+                    <link rel="stylesheet" href="https://components.elance-odesk.com/components/1.8.2/air.components.1.8.2.min.css" onload="remove_mark('navCompRenderEnd');remove_measure('navCompRendered');create_mark('navCompRenderEnd');create_measure('navCompRendered', 'navigationStart', 'navCompRenderEnd');"/>
+                    <link rel="stylesheet" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.gotham.1.10.0.css" onload="remove_mark('navCompRenderEnd');remove_measure('navCompRendered');create_mark('navCompRenderEnd');create_measure('navCompRendered', 'navigationStart', 'navCompRenderEnd');"/>
+                    <link rel="stylesheet" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.air-icons.1.10.0.css" onload="remove_mark('navCompRenderEnd');remove_measure('navCompRendered');create_mark('navCompRenderEnd');create_measure('navCompRendered', 'navigationStart', 'navCompRenderEnd');"/>
+            
+                        <link rel="preload" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.gotham-async.1.10.0.css" as="style" onload="this.rel='stylesheet'"  />
+            <noscript><link rel="stylesheet" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.gotham-async.1.10.0.css"  /></noscript>
+                    <link rel="preload" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.air-icons-async.1.10.0.css" as="style" onload="this.rel='stylesheet'"  />
+            <noscript><link rel="stylesheet" href="https://components.elance-odesk.com/fonts/1.10.0/fonts.air-icons-async.1.10.0.css"  /></noscript>
+                <script type="text/javascript">!function(a){var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);</script>
+        <script type="text/javascript">!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);</script>
+    
+    <script type="text/javascript">
+    // global Applet object
+    var Applet = new function() {
+        var basePath = '/';
+        var phpVars = {"account_security_ui_psmetrics_traffic_rate":0.5,"runtime_id":"5d691ae9-f44c-4eac-a67c-fc6eeb23f705","clientStatsDMetrics":true,"smfAjax":false,"pageSpeedMetrics":false,"pageId":"Account-Security-Ui-Binder-OdeskAccountSecurity-Login"};
+        var angularCache = [];
+        var assetsVersion = "bb40998";
+        var instanceEnv = "prod";
+
+        var bundleRegex = /^@([^\/]*)Bundle\/(.*)$/;
+
+        this.getBasePath = function() {
+            return basePath;
+        };
+
+        this.buildPath = function(path) {
+            var matches = bundleRegex.exec(path);
+            if (matches != null) {
+                var baseUrl = basePath + '/bundles/' + matches[1].toLowerCase() + '/' + matches[2];
+            }
+            else {
+                var baseUrl = basePath + path;
+            }
+            if (assetsVersion) {
+                if (baseUrl.indexOf('?') < 0) {
+                    return baseUrl + '?' + assetsVersion;
+                } else {
+                    return baseUrl + '&' + assetsVersion;
+                }
+            } else {
+                return baseUrl;
+            }
+        };
+
+        var visitorId = null;
+                visitorId = "35.162.45.193.1477650452778504";
+        
+        this.getVisitorId = function() {
+            return visitorId;
+        };
+
+        var visitorApiKey = null;
+                    visitorApiKey = "93ca6cb32b468a6c063334e1a3b3e2e9";
+                this.getVisitorApiKey = function() {
+            return visitorApiKey;
+        };
+
+
+        var User = null;
+        
+        this.getUser = function() {
+            return User;
+        };
+
+        var Organization = null;
+        
+        this.getOrganization = function() {
+            return Organization;
+        };
+
+        this.getVar = function(key) {
+            return phpVars[key];
+        };
+
+        this.getAngularCache = function() {
+            return angularCache;
+        };
+
+        this.getInstanceEnv = function() {
+            return instanceEnv;
+        }
+    };
+</script>
+                </head>
+<body data-ng-app="account-security-ui" class=" skinny-layout">
+                            
+                    <script>
+                dataLayer = [{"site":{"application":"account-security-ui-binder","version":"bb40998e4cc14a5918972ad2b4acedb18173bbd6","environment":"prod"},"user":{"visitor_id":"35.162.45.193.1477650452778504","recognized":false,"internal":false,"loggedIn":false}}];
+            </script>
+        
+                    <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P4HMDL&amp;site.application=account-security-ui-binder&amp;site.version=bb40998e4cc14a5918972ad2b4acedb18173bbd6&amp;site.environment=prod&amp;user.visitor_id=35.162.45.193.1477650452778504&amp;user.recognized=&amp;user.internal=&amp;user.loggedIn=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P4HMDL');</script>
+            <!-- End Google Tag Manager -->
+                    <div id="layout">
+        <div data-o-smf data-o-smf-location="very_top"></div>
+        <header class="header-navbar-wrapper header-navbar-skinny" role="banner" data-ng-controller="headerController">
+    <nav role="navigation" class="primary-navbar navbar navbar-default">
+        <div class="container">
+            <div class="nav navbar-header navbar-left">
+                <div class="visible-xs pull-left m-lg-right">&nbsp;</div>
+                <a href="/" class="navbar-brand" target="_self"></a>
+            </div>
+            <div class="nav navbar-nav navbar-right hidden-xs">
+                <p class="navbar-text text-right">
+                    <a href="/signup/create-account">Sign up</a>
+                </p>
+            </div>
+        </div>
+    </nav>
+</header>
+         <script type="text/javascript">remove_mark('navCompRenderEnd');remove_measure('navCompRendered');create_mark('navCompRenderEnd');create_measure('navCompRendered', 'navigationStart', 'navCompRenderEnd');</script>
+
+        
+            <div class="container" data-ng-controller="loginCtrl">
+        <div class="col-md-6 col-md-offset-3">
+            <h1 class="text-center m-lg-top hidden-xs">Log in and get to work</h1>
+            <h1 class="m-0-top visible-xs">Log in</h1>
+            
+            <form name="login" method="post" action="/ab/account-security/login" class="form" autocomplete="off" data-ng-submit="submitted = true">
+
+                <div class="form-group">
+            <input type="text" class="form-control"
+    id="login_username" name="login[username]" required="required" data-ng-model="username" placeholder="Username or Email" required="true"  />
+
+            
+    <span ng-messages="login[&#039;login[username]&#039;].$dirty && login[&#039;login[username]&#039;].$error" class="ng-cloak">
+        <label class="form-message form-error" ng-message="required">This field is required.</label>
+    </span>
+
+    </div>
+
+
+                <div class="form-group">
+            <input type="password" class="form-control"
+    id="login_password" name="login[password]" required="required" data-ng-model="password" placeholder="Password" required="true"  />
+
+            
+    <span ng-messages="login[&#039;login[password]&#039;].$dirty && login[&#039;login[password]&#039;].$error" class="ng-cloak">
+        <label class="form-message form-error" ng-message="required">This field is required.</label>
+    </span>
+
+    </div>
+
+
+                                <div class="form-group">
+        <input type="text" class="form-control"
+    id="login_captcha" name="login[captcha]" required="required" data-ng-model="captcha" placeholder="Enter the Code Shown" required="true"  /><img src="data:image/jpeg;base64,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" title="captcha" width="194" height="67" /><div class="m-md-bottom visible-xs"></div>
+            
+    <span ng-messages="login[&#039;login[captcha]&#039;].$dirty && login[&#039;login[captcha]&#039;].$error" class="ng-cloak">
+        <label class="form-message form-error" ng-message="required">This field is required.</label>
+    </span>
+
+    </div>
+
+            
+            
+            <div class="form-inline">
+                <div class="form-group m-lg-right hidden-xs">
+                   
+    <button type="submit"
+     disabled="disabled" data-ng-disabled="isSubmitDisabled()" class="btn btn-block btn-primary p-lg-left-right">
+    Log In
+    </button>
+
+                </div>
+
+                <div class="form-group">
+                <div class="checkbox">
+    <label>
+        <input type="checkbox" id="login_rememberme" name="login[rememberme]" class="form-control" value="1" />
+        Remember me next time
+    </label>
+</div>
+
+                </div>
+            </div>
+
+            <div data-ng-non-bindable>
+                <input type="hidden" id="login_redir" name="login[redir]" value="/messages/att/791921764055433216" />
+                    <input type="hidden"
+    id="login__token" name="login[_token]" value="oFmDghNhR8UJya_svGN_P2BR6RvEYflniFi7m2qkSLM" />
+
+                <input type="hidden" id="login_iovation" name="login[iovation]" />
+            </div>
+
+            <div class="form-group">
+                                <a href="/reset/password">Forgot password?</a>
+            </div>
+
+            <div class="form-group visible-xs m-md-top">
+               
+    <button type="submit"
+     disabled="disabled" data-ng-disabled="isSubmitDisabled()" class="btn btn-block btn-primary p-lg-left-right">
+    Log In
+    </button>
+
+            </div>
+
+            <p class="form-group visible-xs m-lg-bottom">
+                Don't have an account? <a href="/signup/create-account">Sign Up</a>
+            </p>
+
+            </form>
+        </div>
+    </div>
+
+    <script>
+    var io_bb_callback = function (blackBoxContent , isComplete) { // when done call the send function
+        if (isComplete) {
+            var ids = ["login_iovation"];
+            for (i=0;i<ids.length;i++) {
+                document.getElementById(ids[i]).value = blackBoxContent;
+            }
+        }
+    }
+</script>
+<script type="text/javascript" src="https://mpsnare.iesnare.com/snare.js"></script>
+        <div id="layout-footer"></div>
+    </div>
+
+        <footer class="footer-navbar-wrapper footer-skinny" role="contentinfo" data-ng-controller="footerController">
+        <div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <p class="copyright">
+                &copy; 2015 - 2016 Upwork Global Inc.
+            </p>
+            <a href="/legal/" target="_self">Terms of Service</a>
+            <br />
+            <a href="/info/terms/cookie-policy/" target="_self">Cookie Policy</a>
+        </div>
+    </div>
+</div>
+    </footer>
+
+                            <script src="https://components.elance-odesk.com/components/1.8.2/core.1.8.2.min.js"></script>
+            
+
+    
+            <script src="/ab/account-security/static-assets/js/account-security-ui-combined.js?bb40998?bb40998"></script>
+    
+</body>
+</html>

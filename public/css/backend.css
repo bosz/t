@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background: #FFF;
+}
+
+body * {
+	outline: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+.dashboard .glyphicon {
+    display: block;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+.dashboard .badge {
+    padding-bottom: 5px;
+}
+
+.dashboard button {
+    margin-bottom: 5px;
+}
+
+.col-md-9 {
+    min-height: 500px;
+}
+
+td form {
+    display: inline-block;
+}
+
+.nav-pills li a {
+    color: #E91E63;
+}
+
+.label {
+    background-color: #E91E63;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #FFF !important;
+}
+
+.nav-pills li {
+    border: 1px solid #DDD;
+    background: #FFF;
+}
+
+.nav-pills li a:hover,
+.nav-pills li a:active,
+.nav-pills li a:focus {
+    background: #E91E63;
+    color: #FFF;
+}
+
+.nav-pills li:hover,
+.nav-pills li:active,
+.nav-pills li:focus {
+    border: 1px solid #E91E63;
+}
+
+.nav-pills {
+    margin-bottom: 20px;
+}
+
+.navbar-default {
+    background: #E91E63;
+    border: none;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand:focus {
+    color: #FFF;
+}
+
+.nav-pills li.active a,
+.nav-pills li.active a:focus,
+.nav-pills li.active a:hover {
+    background: #E91E63;
+}
+
+.nav-pills li.active,
+.nav-pills li.active:focus,
+.nav-pills li.active:hover {
+    border-color: #E91E63;
+}
+
+.trumbowyg-button-pane {
+    background: #FFF;
+}
+
+.trumbowyg-box {
+    margin: 0;
+    width: 100%;
+}
+
+span.ui-icon {
+background: #CCC;border-radius: 100% !important;}
+
+a.ui-datepicker-next,
+a.ui-datepicker-prev {
+    background: #FFF !important;
+    border-color: #DDD;
+    cursor: pointer;
+}
+
+.ui-datepicker-header {
+    background: #FFF;
+    border: none;
+}
+
+.ui-datepicker td a {
+    background: #FFF !important;
+    border: 1px solid #DDD !important;
+}
+
+.ui-datepicker td a:hover {
+    background: #F1F1F1 !important;
+}
+
+#ui-datepicker-div {
+    border: 1px solid #DDD;
+}
+
+.ui-widget-content {
+    font-family: 'Raleway', sans-serif;
+    border-color: #DDD;
+}
+
+.ui-menu .ui-menu-item:hover {
+    background: #F1F1F1;
+    border-color: #DDD;
+}
+
+select {
+    text-transform: capitalize;
+}
+
+.inline {
+    display: inline-block;
+}
+
+footer:before {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+footer .navbar-default {
+    margin-bottom: 0;
+    margin-top: 20px;
+    background: #F1F1F1;
+    border: 1px solid #DDD;
+}
+
+footer .navbar-brand {
+    color: #333 !important;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.btn {
+    background: #E91E63 !important;
+    border: none;
+}
+
+.form-control:focus {
+    border: 1px solid #E91E63;
+}
+
+.pagination .active span,
+.pagination .active span:hover {
+    background: #E91E63;
+    border-color: #E91E63;
+}
+
+.dashboard .badge {
+    color: #E91E63;
+}

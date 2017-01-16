@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background: #FFF;
+}
+
+body * {
+	outline: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+footer .navbar-default {
+    margin-bottom: 0;
+    background: #FFFFFF;
+    border: 1px solid #FFF;
+    margin-top: 20px;
+}
+
+.navbar-default {
+    background: #E91E63;
+    border: none;
+}
+
+.navbar-header a {
+    color: #FFF !important;
+}
+
+footer:before {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+footer .navbar-header a {
+    line-height: 48px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #444 !important;
+}
+
+.col-md-12 {
+    /*min-height: 500px;*/
+}
+
+.login {
+    padding-top: 10%;
+}
+
+.home h1 {
+    text-align: center;
+    font-size: 65px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 10%;
+}
+
+.home p {
+    /*text-align: center;*/
+    font-size: 19px;
+    /*max-width: 60%;*/
+    display: block;
+    margin: auto;
+}
+
+.home .btn {
+    margin: auto;
+    display: table;
+    margin-top: 30px;
+}
+
+h3 {
+    margin-bottom: 25px;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #FFF !important;
+}
+
+.setup {
+    margin-top: 5%;
+}
+
+.page404 {
+    text-align: center;
+}
+
+.page404 h1 {
+    font-weight: 900;
+    font-size: 110px;
+    margin-top: 30%;
+}
+
+.page404 h2 {
+    font-size: 26px;
+    border-bottom: 2px solid #333333;
+    display: table;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+.btn {
+    background: #E91E63 !important;
+    border: none;
+}
+
+.form-control:focus {
+    border: 1px solid #E91E63;
+}
+
+.pagination .active span,
+.pagination .active span:hover {
+    background: #E91E63;
+    border-color: #E91E63;
+}
